@@ -1,0 +1,5 @@
+NurseryRhyme=input("Enter the first line of a nursery rhyme!")
+print(len(NurseryRhyme))
+Num1=int(input("Enter a starting number"))
+Num2=int(input("Enter an ending number"))
+print(NurseryRhyme[Num1:Num2])
